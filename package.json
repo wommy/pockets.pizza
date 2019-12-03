@@ -1,0 +1,12 @@
+{
+  "name": "pockets.pizza",
+  "version": "1.0.0",
+  "description": "pockets website",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/pockets.pizza.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}

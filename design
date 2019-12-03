@@ -1,0 +1,142 @@
+# pockets design doc
+
+
+	layout_pages
+		contact
+		about me
+		toc
+			template
+					category, title, year, pages => 
+				
+				pages, title, year, category
+				
+				post_template
+					category
+					images [ ]
+					title + year
+					description
+			data
+
+				pages:
+					title:
+						year:
+						category:
+						description:
+						images:
+
+				4-5
+					megaman x hardtype packaging
+						2015
+						product_design
+						This piece captures many of my skills as a designer. Using appropriated imagery, I used photo manipulation to create a new design for the packaging of this product as well as for the graphics within the game. The final product is one meant to catch the nos-talgia of the Super Nintendo, to create a unique reproduction experience.
+						[ box 1-6, 7-12 ]
+				6
+					circa records logo
+						2014 ? 2015
+						typography ? branding
+						a branding identity class project, circa records is a pop-up store front that needed a modern logo along with an ad campaign
+						img [ ]
+				7
+					blue pump software stationery
+						2016
+						illustration
+						this client was a newly formed company in need of corporate stationery that fit with an existing visual code
+						img [ ]
+						logo
+				8-9
+					thermo x band booklet
+						2015
+						product design
+						img [ ]
+						logo
+						thermo x brand is a starup product that needed a chesive visual identity and an illustrated workout booklet. the booklet covers teh various stretches using the thermo x band
+						cont
+				10
+					lincoln illustrations
+						2016
+						illustration
+						img [ ]
+						logo
+						lincoln electriccs uilinc onine teaching module suse numerous deomonstrative illustrations for welding students
+				11
+					people play games bus wrap
+						2015
+						branding
+						img [ ]
+						logo
+						people play games is a smal business in chicago focus on retrogames. fir a school project i chose to create a bus wrap for the shop
+				12
+					sesame street fighter mobile app
+						2015
+						prototyping
+						img [ ]
+						originally a brwoser game, sesame street fighter mobile edition was a class project to design an app this prototype can only be viewed in keynote
+				13
+					champ photo-shoot
+						2016	
+						branding
+						img [ ]
+						logo
+						edited and clipped out the backgroun of product photography for a large family of automotive fluids
+				14
+					rocky the unemployed raptor
+						2012
+						production
+						img [ ]
+						a collaboratiev piece, rocy the unemployed raptor was a school project done on a very tight budget, but stil managed to expore a bustling cityscape. click play to open vimeo link
+				15
+					saloon psa
+						2012
+						production
+						img [ ]
+						anther collab, this shirt psa featured articulating characters and a nore detaile stage. click play to open vimeo link
+				16-17
+					luber-finer animations
+						2015
+						animation
+						img [ ]
+						logo
+						exported from cinema4d, these filter animations are used in an online teaching module of LF products
+						also exported from cinema4d this animation shows a more realistic view of LF filter systems
+				18
+					gif selections
+						2015
+						animation
+						img [ ]
+						logo
+						using appropriated sprites from megamanx , these slected gifs were used for createing interactive elementns for web use
+				19
+					golden type
+						2014
+						typography
+						img [ ]
+						a typography project for school, the two-page spread details the ccreation of Golden Type, and its evolutions through modern type industrialization
+				20
+					img
+					subtitle: pockets 2018
+
+	wommy_proposed_tweaks
+		toc
+			page - category - title
+
+day / design 2
+
+	pages
+		1 contact
+		2 about me 
+		3 table of contents
+		4,5 megamanx hardtype packaging
+		6 circa records logo
+		7 blue pump software stationery
+		8,9 thermo x band booklet
+		10 lincolm illustrations
+		11 people play games bus wrap
+		12 sesame street fighter mobile app
+		13 champ photoshoop
+		14 rocky the unemployed raptor
+		15 saloon psa
+		16,17 luber finer animations
+		18 gif selections
+		19 golden type
+		20 conclusion
+
